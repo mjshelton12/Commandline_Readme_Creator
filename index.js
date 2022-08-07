@@ -1,5 +1,3 @@
-x=0
-
 // Packages needed for this application
 const fs = require('fs')
 const inquirer = require('inquirer')
@@ -15,15 +13,11 @@ function writeToFile(fileName, data) {}
 
 // Function to initialize app
 function init() {
-    questions.forEach(question =>
         inquirer
-            .prompt([
-                question
-            ])
+            .prompt(questions)
             .then((data) => {
                 console.log(data)
             })
-    )
 }
 
 // Function call to initialize app
