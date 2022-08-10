@@ -24,10 +24,35 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## Table of Contents
+
   ## Description
   
   ${data.description}
-  
+
+  ## Installation
+
+  ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Tests
+
+  ${data.tests}
+
+  ## Questions
+
+  If you have additional questions regarding this app, you can reach out to the author through their github or email:
+
+  [${data.github}'s Github Profile](http://www.github.com/${data.github})
+
+  ${data.email}
 
 `;
 }

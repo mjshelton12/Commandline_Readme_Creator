@@ -29,7 +29,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "What kind of license does your app fall under",
-    choices: ["choice one", "choice two", "No license"],
+    choices: ["MIT", "Apache", "Eclipse Marketplace", "No license"],
   },
   {
     type: "input",
@@ -39,7 +39,17 @@ const questions = [
   {
     type: "input",
     name: "tests",
-    message: "",
+    message: "What tests did you create to prove your apps functionality?",
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "Please provide your github username",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "Please provide your email",
   }
 ];
 
