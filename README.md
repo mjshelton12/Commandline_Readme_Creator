@@ -41,7 +41,7 @@
 
   ## Video Example of Application Use
 
-  ![Video Example of Application](https://drive.google.com/file/d/13k2mnXBInseaWXGU2y-fgxZ_5ZAZT82F/view?usp=sharing)
+  [![Watch the video](https://i.imgur.com/HVTHXM5.jpg)](https://drive.google.com/file/d/13k2mnXBInseaWXGU2y-fgxZ_5ZAZT82F/view?usp=sharing)
 
   ## Contributing
 
