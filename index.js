@@ -26,6 +26,16 @@ const questions = [
     message: "How will users make use of your app?",
   },
   {
+    type: "input",
+    name: "photo",
+    message: "Please provide a link to an image of your deployed site:",
+  },
+  {
+    type: "input",
+    name: "link",
+    message: "Please provide a link to your deployed site:",
+  },
+  {
     type: "list",
     name: "license",
     message: "What kind of license does your app fall under",

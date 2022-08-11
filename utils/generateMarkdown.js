@@ -59,6 +59,14 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
+  ## Live Site
+
+  [Live Application](${data.link})
+
+  ## Overview of Site
+
+  ![Overview Photo of Application](${data.link})
+
   ## Contributing
 
   ${data.contributing}

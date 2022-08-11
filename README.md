@@ -1,5 +1,5 @@
-# Test App
-  ![license](https://img.shields.io/badge/LICENSE-Academic_Free-GREEN)
+# ReadMe Creator
+  ![license](https://img.shields.io/badge/LICENSE-MIT-GREEN)
   
   ## Table of Contents
   - [Description](#Description) 
@@ -12,35 +12,43 @@
   
   ## Description
 
-  Test description
+  Description: By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps
 
   ## License
   
-  This project is licensed under the Academic Free license.
+  This project is licensed under the MIT license.
 
   
 
   ## Installation
 
-  Test instructions
+  Click on the “Code” button at the top of the repository to copy the code, navigate to your computer’s terminal or gitbash, and clone the repository onto your computer.
 
   ## Usage
 
-  Test use
+  Users can use this app to quickly and easily create a ReadMe including all pertinent information for app users to install, use, and contribute to the site.
+
+  ## Live Site
+
+  [Live Application](https://github.com/mjshelton12/Commandline_Readme_Creator)
+
+  ## Overview of Site
+
+  ![Overview Photo of Application](https://github.com/mjshelton12/Commandline_Readme_Creator)
 
   ## Contributing
 
-  Test contribute
+  Users can contribute by adding more categories in the ReadMe and programing them to display helpful information for future users.
 
   ## Tests
 
-  Test about tests
+  No tests were created to prove this application works
 
   ## Questions
 
   If you have additional questions regarding this app, you can reach out to the author through their github or email:
 
-  [TestUsername's Github Profile](http://www.github.com/TestUsername)
+  [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
 
-  [Test Email](mailto:Test Email)
+  [testemail@gmail.com](mailto:testemail@gmail.com)
 
