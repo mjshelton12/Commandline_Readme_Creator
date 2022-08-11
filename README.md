@@ -10,7 +10,7 @@
   
   ## Description
 
-  By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps
+  By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps.
 
    
 
@@ -28,7 +28,7 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://i.imgur.com/VToLEyP.jpg)
+  ![Overview Photo of Application](https://i.imgur.com/jN0YeyH.jpg)
 
   ## Contributing
 
@@ -36,7 +36,7 @@
 
   ## Tests
 
-  No tests were created to prove this application works
+  No tests were created to prove this application works.
 
   ## Questions
 
@@ -44,5 +44,5 @@
 
   [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
 
-  [example@gmail.com](mailto:example@gmail.com)
+  [example#gmail.com](mailto:example#gmail.com)
 
