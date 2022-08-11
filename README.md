@@ -1,5 +1,6 @@
 # Test App
-
+  ![license](https://img.shields.io/badge/LICENSE-Academic_Free-GREEN)
+  
   ## Table of Contents
   - [Description](#Description) 
   - [License](#License)
@@ -11,35 +12,35 @@
   
   ## Description
 
-  Test
+  Test description
 
   ## License
   
-  This project is licensed under the Apache license.
+  This project is licensed under the Academic Free license.
 
   
 
   ## Installation
 
-  Test
+  Test instructions
 
   ## Usage
 
-  Test
+  Test use
 
   ## Contributing
 
-  Test
+  Test contribute
 
   ## Tests
 
-  Test
+  Test about tests
 
   ## Questions
 
   If you have additional questions regarding this app, you can reach out to the author through their github or email:
 
-  [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
+  [TestUsername's Github Profile](http://www.github.com/TestUsername)
 
-  [test@gmail.com](mailto:test@gmail.com)
+  [Test Email](mailto:Test Email)
 
