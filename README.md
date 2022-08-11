@@ -2,12 +2,12 @@
    
   ## Table of Contents
   - [Description](#Description)  
-  - [Technologies Used](#Technologies)  
+  - [Technologies Used](#Technologies-Used)  
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Live Site](#Live)
-  - [Overview of Site](#Overview)
-  - [Video Exampe of Application Use](#Video)
+  - [Live Site](#Live-Site)
+  - [Overview of Site](#Overview-of-Site)
+  - [Video Exampe of Application Use](#Video-Exampe-of-Application-Use)
   - [Contributing](#Contributing)
   - [Tests](#Tests)
   - [Summary](#Summary)
@@ -37,11 +37,11 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://i.imgur.com/gw5vzJN.jpg)
+  ![Overview Photo of Application](https://imgur.com/YS2bwZN.jpg)
 
   ## Video Example of Application Use
 
-  ![Overview Photo of Application](https://i.imgur.com/gw5vzJN.jpg)
+  ![Video Example of Application](https://drive.google.com/file/d/13k2mnXBInseaWXGU2y-fgxZ_5ZAZT82F/view?usp=sharing)
 
   ## Contributing
 
