@@ -2,17 +2,26 @@
    
   ## Table of Contents
   - [Description](#Description)  
+  - [Technologies Used](#Technologies)  
   - [Installation](#Installation)
   - [Usage](#Usage)
+  - [Live Site](#Live)
+  - [Overview of Site](#Overview)
+  - [Video Exampe of Application Use](#Video)
   - [Contributing](#Contributing)
   - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Summary](#Summary)
+  - [Author](#Author)
   
   ## Description
 
   By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps.
 
-   
+  ## Technologies Used
+
+   * JavaScript - Used to power the application. Created prompts in node that collects data, then organizes it and populates the ReadMe file
+   * Node.js - Runs inquirer to prompt user and collects data
+   * inquirer 8.2.4 npm - Promps the user in node.js with questions
 
   ## Installation
 
@@ -28,21 +37,26 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://i.imgur.com/YS2bwZN.jpg)
+  ![Overview Photo of Application](https://i.imgur.com/gw5vzJN.jpg)
+
+  ## Video Example of Application Use
+
+  ![Overview Photo of Application](https://i.imgur.com/gw5vzJN.jpg)
 
   ## Contributing
 
-  Users can contribute by adding more categories in the ReadMe and programing them to display helpful information for future users.
+  Contributing: Users can contribute by adding more categories in the ReadMe and programing them to display helpful information for future users.
 
   ## Tests
 
   No tests were created to prove this application works.
 
-  ## Questions
+  ## Summary
 
-  If you have additional questions regarding this app, you can reach out to the author through their github or email:
+  * Built an index.js that created prompts in node then triggers a file called generateMarkdown.js
+  * Built generateMarkdown.js which organizes the data and sends it back to index.js to populate the file
+
+  ## Author
 
   [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
-
-  [example@gmail.com](mailto:example@gmail.com)
 

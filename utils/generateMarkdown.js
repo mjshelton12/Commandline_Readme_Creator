@@ -52,9 +52,7 @@ function generateMarkdown(data) {
   ## Technologies Used
 
   ${data.technologies}
-
   ${renderLicenseSection(data.license)}
-
   ## Installation
 
   ${data.installation}
