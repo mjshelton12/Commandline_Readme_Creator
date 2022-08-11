@@ -1,4 +1,4 @@
-# Test
+# Test App
 
   ## Table of Contents
   - [Description](#Description) 
@@ -9,11 +9,13 @@
   - [Tests](#Tests)
   - [Questions](#Questions)
   
+  ## Description
+
   Test
 
   ## License
   
-  This project is licensed under the MIT license.
+  This project is licensed under the Apache license.
 
   
 
@@ -37,7 +39,7 @@
 
   If you have additional questions regarding this app, you can reach out to the author through their github or email:
 
-  [Test's Github Profile](http://www.github.com/Test)
+  [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
 
-  Test
+  [test@gmail.com](mailto:test@gmail.com)
 

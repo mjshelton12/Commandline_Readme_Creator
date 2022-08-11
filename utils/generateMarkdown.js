@@ -39,6 +39,8 @@ function generateMarkdown(data) {
   - [Tests](#Tests)
   - [Questions](#Questions)
   
+  ## Description
+
   ${data.description}
 
   ${renderLicenseSection(data.license)}
@@ -65,7 +67,7 @@ function generateMarkdown(data) {
 
   [${data.github}'s Github Profile](http://www.github.com/${data.github})
 
-  ${data.email}
+  [${data.email}](mailto:${data.email})
 
 `;
 }
