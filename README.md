@@ -28,7 +28,7 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://i.imgur.com/laBl6gL.jpg)
+  ![Overview Photo of Application](https://i.imgur.com/YS2bwZN.jpg)
 
   ## Contributing
 

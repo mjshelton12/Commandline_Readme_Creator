@@ -17,6 +17,11 @@ const questions = [
   },
   {
     type: "input",
+    name: "technologies",
+    message: "What technologies did you use?",
+  },
+  {
+    type: "input",
     name: "installation",
     message: "What are the installation instructions for your app?",
   },
@@ -54,12 +59,17 @@ const questions = [
   {
     type: "input",
     name: "github",
-    message: "Please provide your github username",
+    message: "Please provide your github username:",
+  },
+  {
+    type: "input",
+    name: "summary",
+    message: "Please describe what you did to create this application:",
   },
   {
     type: "input",
     name: "email",
-    message: "Please provide your email",
+    message: "Please provide your email:",
   }
 ];
 
