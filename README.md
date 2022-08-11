@@ -7,7 +7,7 @@
   - [Usage](#Usage)
   - [Live Site](#Live-Site)
   - [Overview of Site](#Overview-of-Site)
-  - [Video Exampe of Application Use](#Video-Exampe-of-Application-Use)
+  - [Video Example of Application Use](#Video-Example-of-Application-Use)
   - [Contributing](#Contributing)
   - [Tests](#Tests)
   - [Summary](#Summary)
