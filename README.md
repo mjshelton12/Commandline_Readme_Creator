@@ -1,9 +1,7 @@
-# ReadMe Creator
-  ![license](https://img.shields.io/badge/LICENSE-MIT-GREEN)
-  
+# Commandline ReadMe Creator
+   
   ## Table of Contents
-  - [Description](#Description) 
-  - [License](#License)
+  - [Description](#Description)  
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Contributing](#Contributing)
@@ -12,13 +10,9 @@
   
   ## Description
 
-  Description: By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps
+  By running this app in terminal using node.js, users can quickly and easily create effective ReadMes for their apps
 
-  ## License
-  
-  This project is licensed under the MIT license.
-
-  
+   
 
   ## Installation
 
@@ -34,7 +28,7 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://github.com/mjshelton12/Commandline_Readme_Creator)
+  ![Overview Photo of Application](https://i.imgur.com/VToLEyP.jpg)
 
   ## Contributing
 
@@ -50,5 +44,5 @@
 
   [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
 
-  [testemail@gmail.com](mailto:testemail@gmail.com)
+  [example@gmail.com](mailto:example@gmail.com)
 

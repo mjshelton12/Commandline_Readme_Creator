@@ -65,7 +65,7 @@ function generateMarkdown(data) {
 
   ## Overview of Site
 
-  ![Overview Photo of Application](${data.link})
+  ![Overview Photo of Application](${data.photo})
 
   ## Contributing
 
