@@ -49,6 +49,10 @@ function generateMarkdown(data) {
 
   ${data.description}
 
+  ## Technologies Used
+
+  ${data.technologies}
+
   ${renderLicenseSection(data.license)}
 
   ## Installation
@@ -74,6 +78,10 @@ function generateMarkdown(data) {
   ## Tests
 
   ${data.tests}
+
+  ## Summary
+
+  ${data.summary}
 
   ## Questions
 
