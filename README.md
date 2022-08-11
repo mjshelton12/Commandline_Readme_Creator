@@ -28,7 +28,7 @@
 
   ## Overview of Site
 
-  ![Overview Photo of Application](https://i.imgur.com/jN0YeyH.jpg)
+  ![Overview Photo of Application](https://i.imgur.com/gw5vzJN.jpg)
 
   ## Contributing
 
@@ -44,5 +44,5 @@
 
   [mjshelton12's Github Profile](http://www.github.com/mjshelton12)
 
-  [example#gmail.com](mailto:example#gmail.com)
+  [example@gmail.com](mailto:example@gmail.com)
 
