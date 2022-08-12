@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
     return " ";
   }
   return `
-  - [License](#License)`
+  - [License](#license)`
 }
 
 // Renders license header and information if user selects a license
@@ -26,7 +26,8 @@ function renderLicenseSection(license) {
     return " ";
   }
 
-  return `## License
+  return `
+  ## License <a id="license"></a>
   
   This project is licensed under the ${license} license.
 
@@ -38,50 +39,54 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
   ## Table of Contents
-  - [Description](#Description) ${renderLicenseLink(data.license)}
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Contributing](#Contributing)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Description](#description)
+  - [Technologies Used](#tech) ${renderLicenseLink(data.license)}
+  - [Installation](#install)
+  - [Usage](#use)
+  - [Live Site](#site)
+  - [Overview of Site](#overview)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Summary](#summary)
+  - [Questions](#author)
   
-  ## Description
+  ## Description <a id="description"></a>
 
   ${data.description}
 
-  ## Technologies Used
+  ## Technologies Used <a id="tech"></a>
 
   ${data.technologies}
   ${renderLicenseSection(data.license)}
-  ## Installation
+  ## Installation <a id="install"></a>
 
   ${data.installation}
 
-  ## Usage
+  ## Usage <a id="use"></a>
 
   ${data.usage}
 
-  ## Live Site
+  ## Live Site <a id="site"></a>
 
   [Live Application](${data.link})
 
-  ## Overview of Site
+  ## Overview of Site <a id="overview"></a>
 
   ![Overview Photo of Application](${data.photo})
 
-  ## Contributing
+  ## Contributing <a id="contributing"></a>
 
   ${data.contributing}
 
-  ## Tests
+  ## Tests <a id="tests"></a>
 
   ${data.tests}
 
-  ## Summary
+  ## Summary <a id="summary"></a>
 
   ${data.summary}
 
-  ## Questions
+  ## Questions <a id="author"></a>
 
   If you have additional questions regarding this app, you can reach out to the author through their github or email:
 
